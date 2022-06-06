@@ -1,0 +1,19 @@
+{
+  "Location": "Shandong",
+  
+  "NameList": [
+    {
+      "Name": "Cloud1",
+      "City": "Weifang1",
+      "NO": 1
+    },
+    {
+      "Name": "Cloud2",
+      "City": "Weifang2",
+    },
+    {
+      "Name": "Cloud3",
+      "City": "Weifang3",
+    },
+  ]
+}
